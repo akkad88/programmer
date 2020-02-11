@@ -98,6 +98,11 @@ a:hover {
   float:right;
   margin-left: 30px;
 }
+.akkad{
+  border-radius:100%;
+  width: 15%;
+
+}
 
 .btn {
 	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
